@@ -2,7 +2,11 @@
 ###Me puedes encontrar en:
 
 _Personal_
-" :star::blush: mi portafolio en **[Behance](https://www.behance.net/johanaafricano)** :v:
-" :star::blush: Algo más sobre mi en [Instagram](https://instagram.com/joha_8912?igshid=YmMyMTA2M2Y=)** :v:
-" :start::bush: Mi perfil en [LinkedIn](http://www.linkedin.com/in/johanaafricano)** :v:
-" :start:bush: Mi perfil en [Twitter](https://twitter.com/Joha_2040?s=09)** :v:
+
+Mi portafolio en **[Behance](https://www.behance.net/johanaafricano) :v:
+
+Algo más sobre mi en [Instagram](https://instagram.com/joha_8912?igshid=YmMyMTA2M2Y=) :v:
+
+Mi perfil en [LinkedIn](http://www.linkedin.com/in/johanaafricano) :v:
+
+Mi perfil en [Twitter](https://twitter.com/Joha_2040?s=09) :v:
